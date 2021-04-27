@@ -1,0 +1,129 @@
+
+level-select.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button
+  rotate: false
+  xy: 483, 284
+  size: 100, 100
+  split: 42, 42, 42, 42
+  pad: 0, 0, 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+challenges_small
+  rotate: false
+  xy: 2, 2
+  size: 230, 121
+  orig: 230, 121
+  offset: 0, 0
+  index: -1
+classic_small
+  rotate: false
+  xy: 2, 580
+  size: 240, 131
+  orig: 240, 131
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 331, 386
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+keyboard-key-none-wide
+  rotate: false
+  xy: 260, 813
+  size: 333, 156
+  orig: 333, 156
+  offset: 0, 0
+  index: -1
+keyboard-key-settings-wide
+  rotate: false
+  xy: 2, 125
+  size: 326, 149
+  orig: 326, 149
+  offset: 0, 0
+  index: -1
+keyboard-key-with-letter-wide
+  rotate: false
+  xy: 595, 819
+  size: 327, 150
+  orig: 327, 150
+  offset: 0, 0
+  index: -1
+level_button
+  rotate: false
+  xy: 924, 883
+  size: 86, 86
+  split: 41, 41, 41, 41
+  pad: 0, 0, 0, 0
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 331, 234
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 330, 82
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+one-speed-wide
+  rotate: false
+  xy: 260, 661
+  size: 327, 150
+  orig: 327, 150
+  offset: 0, 0
+  index: -1
+previous
+  rotate: false
+  xy: 483, 386
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 483, 182
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+switch_small
+  rotate: false
+  xy: 331, 538
+  size: 230, 121
+  orig: 230, 121
+  offset: 0, 0
+  index: -1
+three-speed-wide
+  rotate: false
+  xy: 2, 428
+  size: 327, 150
+  orig: 327, 150
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 2, 713
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+two-speed-wide
+  rotate: false
+  xy: 2, 276
+  size: 327, 150
+  orig: 327, 150
+  offset: 0, 0
+  index: -1

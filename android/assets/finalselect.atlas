@@ -1,0 +1,217 @@
+
+finalselect.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button
+  rotate: false
+  xy: 234, 223
+  size: 100, 100
+  split: 42, 42, 42, 42
+  pad: 0, 0, 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+button_base
+  rotate: false
+  xy: 924, 934
+  size: 40, 40
+  split: 18, 18, 18, 18
+  pad: 0, 0, 0, 0
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+button_gray
+  rotate: false
+  xy: 839, 602
+  size: 100, 100
+  split: 43, 43, 43, 43
+  pad: 0, 0, 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+casual_small
+  rotate: false
+  xy: 727, 596
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+challenges_small
+  rotate: false
+  xy: 615, 492
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+checked
+  rotate: false
+  xy: 482, 424
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+classic_small
+  rotate: false
+  xy: 2, 629
+  size: 240, 131
+  orig: 240, 131
+  offset: 0, 0
+  index: -1
+correct
+  rotate: false
+  xy: 2, 2
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+decrease
+  rotate: false
+  xy: 924, 976
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 2, 50
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+help
+  rotate: false
+  xy: 154, 50
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+increase
+  rotate: false
+  xy: 65, 12
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+keyboard-key-disappearing-letter-wide
+  rotate: false
+  xy: 254, 704
+  size: 326, 150
+  orig: 326, 150
+  offset: 0, 0
+  index: -1
+keyboard-key-none-wide
+  rotate: false
+  xy: 254, 856
+  size: 333, 156
+  orig: 333, 156
+  offset: 0, 0
+  index: -1
+keyboard-key-settings-wide
+  rotate: false
+  xy: 582, 704
+  size: 326, 150
+  orig: 326, 150
+  offset: 0, 0
+  index: -1
+keyboard-key-with-key-disappearing
+  rotate: false
+  xy: 2, 477
+  size: 326, 150
+  orig: 326, 150
+  offset: 0, 0
+  index: -1
+keyboard-key-with-letter-wide
+  rotate: false
+  xy: 2, 325
+  size: 326, 150
+  orig: 326, 150
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 330, 552
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+life_small
+  rotate: false
+  xy: 727, 496
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+no_select
+  rotate: false
+  xy: 589, 856
+  size: 333, 156
+  orig: 333, 156
+  offset: 0, 0
+  index: -1
+option
+  rotate: false
+  xy: 382, 356
+  size: 42, 42
+  split: 19, 19, 19, 19
+  pad: 0, 0, 0, 0
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+play_game
+  rotate: false
+  xy: 2, 762
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+play_icon
+  rotate: false
+  xy: 482, 552
+  size: 131, 150
+  orig: 131, 150
+  offset: 0, 0
+  index: -1
+previous
+  rotate: false
+  xy: 330, 400
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 839, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+switch_small
+  rotate: false
+  xy: 2, 202
+  size: 230, 121
+  orig: 230, 121
+  offset: 0, 0
+  index: -1
+time_small
+  rotate: false
+  xy: 615, 592
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+unchecked
+  rotate: false
+  xy: 330, 348
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 426, 358
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

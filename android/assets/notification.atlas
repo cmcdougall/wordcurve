@@ -1,0 +1,22 @@
+
+notification.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+keyboard_base
+  rotate: false
+  xy: 104, 62
+  size: 40, 40
+  split: 18, 18, 18, 18
+  pad: 0, 0, 0, 0
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+remove_icon
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "869797745236",
+    "firebase_url": "https://word-curve-99169812.firebaseio.com",
+    "project_id": "word-curve-99169812",
+    "storage_bucket": "word-curve-99169812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869797745236:android:54fa8aa491d40580",
+        "android_client_info": {
+          "package_name": "com.singlemethodgames.wordcurve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869797745236-ldtuod3vckqgvih4p33dbkacf10goi88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZiJxAuZKAwagoeHSa86ShJdcAWMWVZ6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5579762796499619~9747324247"
+    }
+  ],
+  "configuration_version": "1"
+}

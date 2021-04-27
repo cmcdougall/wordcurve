@@ -1,0 +1,192 @@
+{
+  "CLASSIC": {
+    "class": "com.singlemethodgames.wordcurve.utils.challenges.ChallengeSet",
+    "levels": {
+      "1": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "and"},{"class": "java.lang.String", "value": "peak"},{"class": "java.lang.String", "value": "they"},{"class": "java.lang.String", "value": "club"}],
+          [{"class": "java.lang.String", "value": "from"},{"class": "java.lang.String", "value": "king"},{"class": "java.lang.String", "value": "was"},{"class": "java.lang.String", "value": "zero"}],
+          [{"class": "java.lang.String", "value": "are"},{"class": "java.lang.String", "value": "curb"},{"class": "java.lang.String", "value": "two"},{"class": "java.lang.String", "value": "may"}],
+          [{"class": "java.lang.String", "value": "she"},{"class": "java.lang.String", "value": "hack"},{"class": "java.lang.String", "value": "only"},{"class": "java.lang.String", "value": "max"}],
+          [{"class": "java.lang.String", "value": "bang"},{"class": "java.lang.String", "value": "dare"},{"class": "java.lang.String", "value": "also"},{"class": "java.lang.String", "value": "own"}],
+          [{"class": "java.lang.String", "value": "sad"},{"class": "java.lang.String", "value": "hey"},{"class": "java.lang.String", "value": "can"},{"class": "java.lang.String", "value": "oil"}],
+          [{"class": "java.lang.String", "value": "lock"},{"class": "java.lang.String", "value": "fold"},{"class": "java.lang.String", "value": "area"},{"class": "java.lang.String", "value": "body"}],
+          [{"class": "java.lang.String", "value": "hub"},{"class": "java.lang.String", "value": "were"},{"class": "java.lang.String", "value": "cup"},{"class": "java.lang.String", "value": "mix"}],
+          [{"class": "java.lang.String", "value": "push"},{"class": "java.lang.String", "value": "fair"},{"class": "java.lang.String", "value": "new"},{"class": "java.lang.String", "value": "who"}],
+          [{"class": "java.lang.String", "value": "sink"},{"class": "java.lang.String", "value": "mole"},{"class": "java.lang.String", "value": "that"},{"class": "java.lang.String", "value": "box"}]
+        ]
+      },
+      "2": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "asked"},{"class": "java.lang.String", "value": "award"},{"class": "java.lang.String", "value": "shows"},{"class": "java.lang.String", "value": "stars"}],
+          [{"class": "java.lang.String", "value": "beach"},{"class": "java.lang.String", "value": "bench"},{"class": "java.lang.String", "value": "north"},{"class": "java.lang.String", "value": "notch"}],
+          [{"class": "java.lang.String", "value": "could"},{"class": "java.lang.String", "value": "cloud"},{"class": "java.lang.String", "value": "voted"},{"class": "java.lang.String", "value": "valid"}],
+          [{"class": "java.lang.String", "value": "dark"},{"class": "java.lang.String", "value": "desk"},{"class": "java.lang.String", "value": "foul"},{"class": "java.lang.String", "value": "feel"}],
+          [{"class": "java.lang.String", "value": "eyes"},{"class": "java.lang.String", "value": "ears"},{"class": "java.lang.String", "value": "wild"},{"class": "java.lang.String", "value": "wood"}],
+          [{"class": "java.lang.String", "value": "goals"},{"class": "java.lang.String", "value": "games"},{"class": "java.lang.String", "value": "homes"},{"class": "java.lang.String", "value": "hands"}],
+          [{"class": "java.lang.String", "value": "ideas"},{"class": "java.lang.String", "value": "icons"},{"class": "java.lang.String", "value": "users"},{"class": "java.lang.String", "value": "units"}],
+          [{"class": "java.lang.String", "value": "jean"},{"class": "java.lang.String", "value": "join"},{"class": "java.lang.String", "value": "harm"},{"class": "java.lang.String", "value": "horn"}],
+          [{"class": "java.lang.String", "value": "made"},{"class": "java.lang.String", "value": "make"},{"class": "java.lang.String", "value": "nose"},{"class": "java.lang.String", "value": "none"}],
+          [{"class": "java.lang.String", "value": "space"},{"class": "java.lang.String", "value": "stage"},{"class": "java.lang.String", "value": "actor"},{"class": "java.lang.String", "value": "alone"}]
+        ]
+      },
+      "3": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "archive"},{"class": "java.lang.String", "value": "article"},{"class": "java.lang.String", "value": "strange"},{"class": "java.lang.String", "value": "science"}],
+          [{"class": "java.lang.String", "value": "beyond"},{"class": "java.lang.String", "value": "biased"},{"class": "java.lang.String", "value": "vocals"},{"class": "java.lang.String", "value": "varies"}],
+          [{"class": "java.lang.String", "value": "cartoon"},{"class": "java.lang.String", "value": "captain"},{"class": "java.lang.String", "value": "villain"},{"class": "java.lang.String", "value": "version"}],
+          [{"class": "java.lang.String", "value": "dangers"},{"class": "java.lang.String", "value": "defines"},{"class": "java.lang.String", "value": "selects"},{"class": "java.lang.String", "value": "seconds"}],
+          [{"class": "java.lang.String", "value": "proper"},{"class": "java.lang.String", "value": "powder"},{"class": "java.lang.String", "value": "output"},{"class": "java.lang.String", "value": "outfit"}],
+          [{"class": "java.lang.String", "value": "friend"},{"class": "java.lang.String", "value": "framed"},{"class": "java.lang.String", "value": "dances"},{"class": "java.lang.String", "value": "divers"}],
+          [{"class": "java.lang.String", "value": "general"},{"class": "java.lang.String", "value": "gradual"},{"class": "java.lang.String", "value": "handful"},{"class": "java.lang.String", "value": "helpful"}],
+          [{"class": "java.lang.String", "value": "income"},{"class": "java.lang.String", "value": "inside"},{"class": "java.lang.String", "value": "oppose"},{"class": "java.lang.String", "value": "outlaw"}],
+          [{"class": "java.lang.String", "value": "nearly"},{"class": "java.lang.String", "value": "nearby"},{"class": "java.lang.String", "value": "mainly"},{"class": "java.lang.String", "value": "mostly"}],
+          [{"class": "java.lang.String", "value": "wanting"},{"class": "java.lang.String", "value": "waiting"},{"class": "java.lang.String", "value": "earning"},{"class": "java.lang.String", "value": "editing"}],
+          [{"class": "java.lang.String", "value": "variety"},{"class": "java.lang.String", "value": "victory"},{"class": "java.lang.String", "value": "brought"},{"class": "java.lang.String", "value": "bought"}],
+          [{"class": "java.lang.String", "value": "talent"},{"class": "java.lang.String", "value": "tenant"},{"class": "java.lang.String", "value": "repeat"},{"class": "java.lang.String", "value": "result"}],
+          [{"class": "java.lang.String", "value": "decide"},{"class": "java.lang.String", "value": "decade"},{"class": "java.lang.String", "value": "staple"},{"class": "java.lang.String", "value": "saddle"}],
+          [{"class": "java.lang.String", "value": "throat"},{"class": "java.lang.String", "value": "tablet"},{"class": "java.lang.String", "value": "reject"},{"class": "java.lang.String", "value": "recent"}],
+          [{"class": "java.lang.String", "value": "hammer"},{"class": "java.lang.String", "value": "helmet"},{"class": "java.lang.String", "value": "gather"},{"class": "java.lang.String", "value": "guitar"}]
+        ]
+      },
+      "4": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "national"},{"class": "java.lang.String", "value": "material"},{"class": "java.lang.String", "value": "notebook"},{"class": "java.lang.String", "value": "marginal"}],
+          [{"class": "java.lang.String", "value": "received"},{"class": "java.lang.String", "value": "released"},{"class": "java.lang.String", "value": "elements"},{"class": "java.lang.String", "value": "episodes"}],
+          [{"class": "java.lang.String", "value": "included"},{"class": "java.lang.String", "value": "inspired"},{"class": "java.lang.String", "value": "occupied"},{"class": "java.lang.String", "value": "operated"}],
+          [{"class": "java.lang.String", "value": "sensation"},{"class": "java.lang.String", "value": "suspicion"},{"class": "java.lang.String", "value": "direction"},{"class": "java.lang.String", "value": "dimension"}],
+          [{"class": "java.lang.String", "value": "creators"},{"class": "java.lang.String", "value": "classics"},{"class": "java.lang.String", "value": "vehicles"},{"class": "java.lang.String", "value": "villages"}],
+          [{"class": "java.lang.String", "value": "databases"},{"class": "java.lang.String", "value": "described"},{"class": "java.lang.String", "value": "supported"},{"class": "java.lang.String", "value": "succeeded"}],
+          [{"class": "java.lang.String", "value": "balanced"},{"class": "java.lang.String", "value": "bordered"},{"class": "java.lang.String", "value": "nowadays"},{"class": "java.lang.String", "value": "networks"}],
+          [{"class": "java.lang.String", "value": "penguins"},{"class": "java.lang.String", "value": "programs"},{"class": "java.lang.String", "value": "officers"},{"class": "java.lang.String", "value": "operates"}],
+          [{"class": "java.lang.String", "value": "fixtures"},{"class": "java.lang.String", "value": "features"},{"class": "java.lang.String", "value": "glaciers"},{"class": "java.lang.String", "value": "graphics"}],
+          [{"class": "java.lang.String", "value": "dinosaur"},{"class": "java.lang.String", "value": "detector"},{"class": "java.lang.String", "value": "straight"},{"class": "java.lang.String", "value": "smallest"}],
+          [{"class": "java.lang.String", "value": "empirical"},{"class": "java.lang.String", "value": "emotional"},{"class": "java.lang.String", "value": "wonderful"},{"class": "java.lang.String", "value": "waterfall"}],
+          [{"class": "java.lang.String", "value": "movement"},{"class": "java.lang.String", "value": "midnight"},{"class": "java.lang.String", "value": "normally"},{"class": "java.lang.String", "value": "nobility"}],
+          [{"class": "java.lang.String", "value": "hospital"},{"class": "java.lang.String", "value": "handball"},{"class": "java.lang.String", "value": "goodwill"},{"class": "java.lang.String", "value": "grateful"}],
+          [{"class": "java.lang.String", "value": "separate"},{"class": "java.lang.String", "value": "software"},{"class": "java.lang.String", "value": "activate"},{"class": "java.lang.String", "value": "advocate"}],
+          [{"class": "java.lang.String", "value": "tropical"},{"class": "java.lang.String", "value": "tactical"},{"class": "java.lang.String", "value": "yearbook"},{"class": "java.lang.String", "value": "youthful"}]
+        ]
+      },
+      "5": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "narrator"},{"class": "java.lang.String", "value": "narrower"},{"class": "java.lang.String", "value": "newcomer"},{"class": "java.lang.String", "value": "neighbor"}],
+          [{"class": "java.lang.String", "value": "district"}, {"class": "java.lang.String", "value": "distinct"}, {"class": "java.lang.String", "value": "document"},{"class": "java.lang.String", "value": "discount"}],
+          [{"class": "java.lang.String", "value": "standing"},{"class": "java.lang.String", "value": "swimming"},{"class": "java.lang.String", "value": "striking"},{"class": "java.lang.String", "value": "spelling"}],
+          [{"class": "java.lang.String", "value": "military"},{"class": "java.lang.String", "value": "ministry"},{"class": "java.lang.String", "value": "majority"},{"class": "java.lang.String", "value": "mobility"}],
+          [{"class": "java.lang.String", "value": "training"},{"class": "java.lang.String", "value": "teaching"},{"class": "java.lang.String", "value": "thinking"},{"class": "java.lang.String", "value": "touching"}],
+          [{"class": "java.lang.String", "value": "followed"},{"class": "java.lang.String", "value": "featured"},{"class": "java.lang.String", "value": "finished"},{"class": "java.lang.String", "value": "financed"}],
+          [{"class": "java.lang.String", "value": "personal"},{"class": "java.lang.String", "value": "physical"},{"class": "java.lang.String", "value": "powerful"},{"class": "java.lang.String", "value": "peaceful"}],
+          [{"class": "java.lang.String", "value": "countries"},{"class": "java.lang.String", "value": "centuries"},{"class": "java.lang.String", "value": "continues"},{"class": "java.lang.String", "value": "companies"}],
+          [{"class": "java.lang.String", "value": "attended"},{"class": "java.lang.String", "value": "appeared"},{"class": "java.lang.String", "value": "assigned"},{"class": "java.lang.String", "value": "accepted"}],
+          [{"class": "java.lang.String", "value": "schooling"},{"class": "java.lang.String", "value": "something"},{"class": "java.lang.String", "value": "surviving"},{"class": "java.lang.String", "value": "searching"}],
+          [{"class": "java.lang.String", "value": "industry"},{"class": "java.lang.String", "value": "identity"},{"class": "java.lang.String", "value": "identify"},{"class": "java.lang.String", "value": "infinity"}],
+          [{"class": "java.lang.String", "value": "variously"},{"class": "java.lang.String", "value": "violently"},{"class": "java.lang.String", "value": "virtually"},{"class": "java.lang.String", "value": "voluntary"}],
+          [{"class": "java.lang.String", "value": "reversal"},{"class": "java.lang.String", "value": "regional"},{"class": "java.lang.String", "value": "rational"},{"class": "java.lang.String", "value": "residual"}],
+          [{"class": "java.lang.String", "value": "published"},{"class": "java.lang.String", "value": "performed"},{"class": "java.lang.String", "value": "presented"},{"class": "java.lang.String", "value": "purchased"}],
+          [{"class": "java.lang.String", "value": "entrance"},{"class": "java.lang.String", "value": "evidence"},{"class": "java.lang.String", "value": "envelope"},{"class": "java.lang.String", "value": "evaluate"}],
+          [{"class": "java.lang.String", "value": "observed"},{"class": "java.lang.String", "value": "obtained"},{"class": "java.lang.String", "value": "obsessed"},{"class": "java.lang.String", "value": "objected"}],
+          [{"class": "java.lang.String", "value": "insurance"},{"class": "java.lang.String", "value": "influence"},{"class": "java.lang.String", "value": "introduce"},{"class": "java.lang.String", "value": "incidence"}],
+          [{"class": "java.lang.String", "value": "gradually"},{"class": "java.lang.String", "value": "generally"},{"class": "java.lang.String", "value": "genuinely"},{"class": "java.lang.String", "value": "geography"}],
+          [{"class": "java.lang.String", "value": "hardware"},{"class": "java.lang.String", "value": "heritage"},{"class": "java.lang.String", "value": "headline"},{"class": "java.lang.String", "value": "horrible"}],
+          [{"class": "java.lang.String", "value": "explains"},{"class": "java.lang.String", "value": "examples"},{"class": "java.lang.String", "value": "eighties"},{"class": "java.lang.String", "value": "earnings"}]
+        ]
+      }
+    }
+  },
+  "SWITCH": {
+    "class": "com.singlemethodgames.wordcurve.utils.challenges.ChallengeSet",
+    "levels": {
+      "1": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "the"},{"class": "java.lang.String", "value": "been"},{"class": "java.lang.String", "value": "also"},{"class": "java.lang.String", "value": "may"}],
+          [{"class": "java.lang.String", "value": "time"},{"class": "java.lang.String", "value": "book"},{"class": "java.lang.String", "value": "with"},{"class": "java.lang.String", "value": "max"}],
+          [{"class": "java.lang.String", "value": "him"},{"class": "java.lang.String", "value": "dust"},{"class": "java.lang.String", "value": "are"},{"class": "java.lang.String", "value": "keep"}],
+          [{"class": "java.lang.String", "value": "leak"},{"class": "java.lang.String", "value": "grow"},{"class": "java.lang.String", "value": "not"},{"class": "java.lang.String", "value": "six"}],
+          [{"class": "java.lang.String", "value": "skip"},{"class": "java.lang.String", "value": "navy"},{"class": "java.lang.String", "value": "for"},{"class": "java.lang.String", "value": "own"}],
+          [{"class": "java.lang.String", "value": "dots"},{"class": "java.lang.String", "value": "buy"},{"class": "java.lang.String", "value": "all"},{"class": "java.lang.String", "value": "main"}],
+          [{"class": "java.lang.String", "value": "glow"},{"class": "java.lang.String", "value": "kit"},{"class": "java.lang.String", "value": "who"},{"class": "java.lang.String", "value": "zinc"}],
+          [{"class": "java.lang.String", "value": "beg"},{"class": "java.lang.String", "value": "ears"},{"class": "java.lang.String", "value": "two"},{"class": "java.lang.String", "value": "can"}],
+          [{"class": "java.lang.String", "value": "yeah"},{"class": "java.lang.String", "value": "she"},{"class": "java.lang.String", "value": "back"},{"class": "java.lang.String", "value": "mix"}],
+          [{"class": "java.lang.String", "value": "film"},{"class": "java.lang.String", "value": "joy"},{"class": "java.lang.String", "value": "and"},{"class": "java.lang.String", "value": "pop"}]
+        ]
+      },
+      "2": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "worms"},{"class": "java.lang.String", "value": "works"},{"class": "java.lang.String", "value": "earns"},{"class": "java.lang.String", "value": "edges"}],
+          [{"class": "java.lang.String", "value": "yacht"},{"class": "java.lang.String", "value": "yeast"},{"class": "java.lang.String", "value": "today"},{"class": "java.lang.String", "value": "truly"}],
+          [{"class": "java.lang.String", "value": "worry"},{"class": "java.lang.String", "value": "witty"},{"class": "java.lang.String", "value": "quiet"},{"class": "java.lang.String", "value": "quest"}],
+          [{"class": "java.lang.String", "value": "space"},{"class": "java.lang.String", "value": "score"},{"class": "java.lang.String", "value": "after"},{"class": "java.lang.String", "value": "actor"}],
+          [{"class": "java.lang.String", "value": "funny"},{"class": "java.lang.String", "value": "fully"},{"class": "java.lang.String", "value": "doubt"},{"class": "java.lang.String", "value": "debut"}],
+          [{"class": "java.lang.String", "value": "joins"},{"class": "java.lang.String", "value": "jumps"},{"class": "java.lang.String", "value": "hours"},{"class": "java.lang.String", "value": "hosts"}],
+          [{"class": "java.lang.String", "value": "vein"},{"class": "java.lang.String", "value": "vain"},{"class": "java.lang.String", "value": "cain"},{"class": "java.lang.String", "value": "coin"}],
+          [{"class": "java.lang.String", "value": "retro"},{"class": "java.lang.String", "value": "radio"},{"class": "java.lang.String", "value": "trump"},{"class": "java.lang.String", "value": "troop"}],
+          [{"class": "java.lang.String", "value": "game"},{"class": "java.lang.String", "value": "gate"},{"class": "java.lang.String", "value": "fame"},{"class": "java.lang.String", "value": "fine"}],
+          [{"class": "java.lang.String", "value": "deal"},{"class": "java.lang.String", "value": "duck"},{"class": "java.lang.String", "value": "seal"},{"class": "java.lang.String", "value": "soil"}]
+        ]
+      },
+      "3": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "streets"},{"class": "java.lang.String", "value": "savings"},{"class": "java.lang.String", "value": "degrees"},{"class": "java.lang.String", "value": "defines"}],
+          [{"class": "java.lang.String", "value": "answers"},{"class": "java.lang.String", "value": "animals"},{"class": "java.lang.String", "value": "streams"},{"class": "java.lang.String", "value": "squares"}],
+          [{"class": "java.lang.String", "value": "broken"},{"class": "java.lang.String", "value": "beacon"},{"class": "java.lang.String", "value": "nation"},{"class": "java.lang.String", "value": "notion"}],
+          [{"class": "java.lang.String", "value": "emails"},{"class": "java.lang.String", "value": "events"},{"class": "java.lang.String", "value": "wolves"},{"class": "java.lang.String", "value": "worlds"}],
+          [{"class": "java.lang.String", "value": "cannon"},{"class": "java.lang.String", "value": "cotton"},{"class": "java.lang.String", "value": "violin"},{"class": "java.lang.String", "value": "vacuum"}],
+          [{"class": "java.lang.String", "value": "decade"},{"class": "java.lang.String", "value": "decide"},{"class": "java.lang.String", "value": "faster"},{"class": "java.lang.String", "value": "former"}],
+          [{"class": "java.lang.String", "value": "himself"},{"class": "java.lang.String", "value": "herself"},{"class": "java.lang.String", "value": "joining"},{"class": "java.lang.String", "value": "jumping"}],
+          [{"class": "java.lang.String", "value": "perform"},{"class": "java.lang.String", "value": "program"},{"class": "java.lang.String", "value": "overrun"},{"class": "java.lang.String", "value": "opinion"}],
+          [{"class": "java.lang.String", "value": "greeted"},{"class": "java.lang.String", "value": "granted"},{"class": "java.lang.String", "value": "hundred"},{"class": "java.lang.String", "value": "haunted"}],
+          [{"class": "java.lang.String", "value": "number"},{"class": "java.lang.String", "value": "nearer"},{"class": "java.lang.String", "value": "mirror"},{"class": "java.lang.String", "value": "member"}],
+          [{"class": "java.lang.String", "value": "variant"},{"class": "java.lang.String", "value": "vibrant"},{"class": "java.lang.String", "value": "contest"},{"class": "java.lang.String", "value": "contact"}],
+          [{"class": "java.lang.String", "value": "record"},{"class": "java.lang.String", "value": "rested"},{"class": "java.lang.String", "value": "folded"},{"class": "java.lang.String", "value": "filmed"}],
+          [{"class": "java.lang.String", "value": "cheaper"},{"class": "java.lang.String", "value": "catcher"},{"class": "java.lang.String", "value": "feather"},{"class": "java.lang.String", "value": "farther"}],
+          [{"class": "java.lang.String", "value": "island"},{"class": "java.lang.String", "value": "indeed"},{"class": "java.lang.String", "value": "uphold"},{"class": "java.lang.String", "value": "upward"}],
+          [{"class": "java.lang.String", "value": "endings"},{"class": "java.lang.String", "value": "exceeds"},{"class": "java.lang.String", "value": "silence"},{"class": "java.lang.String", "value": "episode"}]
+        ]
+      },
+      "4": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "football"},{"class": "java.lang.String", "value": "farewell"},{"class": "java.lang.String", "value": "grateful"},{"class": "java.lang.String", "value": "goodwill"}],
+          [{"class": "java.lang.String", "value": "nightclub"},{"class": "java.lang.String", "value": "nutrition"},{"class": "java.lang.String", "value": "breakdown"},{"class": "java.lang.String", "value": "badminton"}],
+          [{"class": "java.lang.String", "value": "overseen"},{"class": "java.lang.String", "value": "occasion"},{"class": "java.lang.String", "value": "invasion"},{"class": "java.lang.String", "value": "illusion"}],
+          [{"class": "java.lang.String", "value": "qualified"},"questions",{"class": "java.lang.String", "value": "withstand"},{"class": "java.lang.String", "value": "witnesses"}],
+          [{"class": "java.lang.String", "value": "universal"},{"class": "java.lang.String", "value": "identical"},{"class": "java.lang.String", "value": "inaugural"},{"class": "java.lang.String", "value": "undertook"}],
+          [{"class": "java.lang.String", "value": "upcoming"},{"class": "java.lang.String", "value": "yourself"},{"class": "java.lang.String", "value": "uprising"},{"class": "java.lang.String", "value": "yielding"}],
+          [{"class": "java.lang.String", "value": "numerical"},{"class": "java.lang.String", "value": "municipal"},{"class": "java.lang.String", "value": "medicinal"},{"class": "java.lang.String", "value": "nocturnal"}],
+          [{"class": "java.lang.String", "value": "vacation"},{"class": "java.lang.String", "value": "venetian"},{"class": "java.lang.String", "value": "comedian"},{"class": "java.lang.String", "value": "campaign"}],
+          [{"class": "java.lang.String", "value": "kingdoms"},{"class": "java.lang.String", "value": "keyboard"},{"class": "java.lang.String", "value": "justified"},{"class": "java.lang.String", "value": "judgments"}],
+          [{"class": "java.lang.String", "value": "titanium"},{"class": "java.lang.String", "value": "trillion"},{"class": "java.lang.String", "value": "reaction"},{"class": "java.lang.String", "value": "redesign"}],
+          [{"class": "java.lang.String", "value": "honorable"},{"class": "java.lang.String", "value": "hardcover"},{"class": "java.lang.String", "value": "gratitude"},{"class": "java.lang.String", "value": "generator"}],
+          [{"class": "java.lang.String", "value": "elemental"},{"class": "java.lang.String", "value": "emotional"},{"class": "java.lang.String", "value": "wonderful"},{"class": "java.lang.String", "value": "waterfall"}],
+          [{"class": "java.lang.String", "value": "moonlight"},{"class": "java.lang.String", "value": "messenger"},{"class": "java.lang.String", "value": "newspaper"},{"class": "java.lang.String", "value": "neighbour"}],
+          [{"class": "java.lang.String", "value": "believer"},{"class": "java.lang.String", "value": "basement"},{"class": "java.lang.String", "value": "vascular"},{"class": "java.lang.String", "value": "vocalist"}],
+          [{"class": "java.lang.String", "value": "unwilling"},{"class": "java.lang.String", "value": "upgrading"},{"class": "java.lang.String", "value": "including"},{"class": "java.lang.String", "value": "informing"}]
+        ]
+      },
+      "5": {
+        "questions": [
+          [{"class": "java.lang.String", "value": "importing"}, {"class": "java.lang.String", "value": "improving"}, {"class": "java.lang.String", "value": "impending"}, {"class": "java.lang.String", "value": "insisting"}],
+          [{"class": "java.lang.String", "value": "welcoming"},{"class": "java.lang.String", "value": "wandering"},{"class": "java.lang.String", "value": "wrestling"},{"class": "java.lang.String", "value": "weakening"}],
+          [{"class": "java.lang.String", "value": "obligatory"},{"class": "java.lang.String", "value": "officially"},{"class": "java.lang.String", "value": "originally"},{"class": "java.lang.String", "value": "ostensibly"}],
+          [{"class": "java.lang.String", "value": "undertaker"},{"class": "java.lang.String", "value": "unfamiliar"},{"class": "java.lang.String", "value": "underwater"},{"class": "java.lang.String", "value": "undercover"}],
+          [{"class": "java.lang.String", "value": "broadcast"},{"class": "java.lang.String", "value": "brilliant"},{"class": "java.lang.String", "value": "breakfast"},{"class": "java.lang.String", "value": "biologist"}],
+          [{"class": "java.lang.String", "value": "retirement"},{"class": "java.lang.String", "value": "roundabout"},{"class": "java.lang.String", "value": "restaurant"},{"class": "java.lang.String", "value": "resentment"}],
+          [{"class": "java.lang.String", "value": "locomotive"},{"class": "java.lang.String", "value": "lighthouse"},{"class": "java.lang.String", "value": "literature"},{"class": "java.lang.String", "value": "legitimate"}],
+          [{"class": "java.lang.String", "value": "commanders"}, {"class": "java.lang.String", "value": "complaints"}, {"class": "java.lang.String", "value": "colleagues"},{"class": "java.lang.String", "value": "classrooms"}],
+          [{"class": "java.lang.String", "value": "expedition"},{"class": "java.lang.String", "value": "expression"},{"class": "java.lang.String", "value": "excavation"},{"class": "java.lang.String", "value": "exhibition"}],
+          [{"class": "java.lang.String", "value": "replacing"},{"class": "java.lang.String", "value": "recording"},{"class": "java.lang.String", "value": "remaining"},{"class": "java.lang.String", "value": "returning"}],
+          [{"class": "java.lang.String", "value": "attracted"},{"class": "java.lang.String", "value": "attempted"},{"class": "java.lang.String", "value": "accounted"},{"class": "java.lang.String", "value": "addressed"}],
+          [{"class": "java.lang.String", "value": "preference"}, {"class": "java.lang.String", "value": "providence"},{"class": "java.lang.String", "value": "prominence"},{"class": "java.lang.String", "value": "precedence"}],
+          [{"class": "java.lang.String", "value": "festivals"},{"class": "java.lang.String", "value": "followers"},{"class": "java.lang.String", "value": "finalists"},{"class": "java.lang.String", "value": "fireworks"}],
+          [{"class": "java.lang.String", "value": "graduated"},{"class": "java.lang.String", "value": "generated"},{"class": "java.lang.String", "value": "graveyard"},{"class": "java.lang.String", "value": "greyhound"}],
+          [{"class": "java.lang.String", "value": "motorcycle"},{"class": "java.lang.String", "value": "microphone"},{"class": "java.lang.String", "value": "microscope"},{"class": "java.lang.String", "value": "manipulate"}],
+          [{"class": "java.lang.String", "value": "negotiate"},{"class": "java.lang.String", "value": "navigable"},{"class": "java.lang.String", "value": "narrative"},{"class": "java.lang.String", "value": "nightmare"}],
+          [{"class": "java.lang.String", "value": "simplified"}, {"class": "java.lang.String", "value": "supervised"},{"class": "java.lang.String", "value": "structured"},{"class": "java.lang.String", "value": "stimulated"}],
+          [{"class": "java.lang.String", "value": "techniques"},{"class": "java.lang.String", "value": "traditions"},{"class": "java.lang.String", "value": "translates"},{"class": "java.lang.String", "value": "transforms"}],
+          [{"class": "java.lang.String", "value": "understand"},{"class": "java.lang.String", "value": "understood"},{"class": "java.lang.String", "value": "underworld"},{"class": "java.lang.String", "value": "undermined"}],
+          [{"class": "java.lang.String", "value": "lightning"},{"class": "java.lang.String", "value": "launching"},{"class": "java.lang.String", "value": "listening"},{"class": "java.lang.String", "value": "lettering"}]
+        ]
+      }
+    }
+  }
+}

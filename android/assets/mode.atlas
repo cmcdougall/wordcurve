@@ -1,0 +1,64 @@
+
+mode.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 777, 172
+  size: 74, 72
+  split: 35, 35, 34, 34
+  pad: 0, 0, 0, 0
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+casual_icon
+  rotate: false
+  xy: 553, 138
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+challenge_icon
+  rotate: false
+  xy: 114, 14
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+classic_icon
+  rotate: false
+  xy: 2, 114
+  size: 273, 130
+  orig: 273, 130
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 277, 94
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+life_icon
+  rotate: false
+  xy: 665, 146
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+switch_icon
+  rotate: false
+  xy: 429, 95
+  size: 122, 149
+  orig: 122, 149
+  offset: 0, 0
+  index: -1
+time_icon
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1

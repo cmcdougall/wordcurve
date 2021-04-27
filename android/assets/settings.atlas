@@ -1,0 +1,48 @@
+
+settings.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+display_button
+  rotate: false
+  xy: 254, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+display_slider
+  rotate: false
+  xy: 2, 356
+  size: 800, 100
+  orig: 800, 100
+  offset: 0, 0
+  index: -1
+play_game
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+previous
+  rotate: false
+  xy: 804, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+speed_slider
+  rotate: false
+  xy: 2, 254
+  size: 800, 100
+  orig: 800, 100
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 254, 50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

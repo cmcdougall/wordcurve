@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">869797745236</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.singlemethodgames.wordcurve</string>
+    <!-- achievement Classic - First 100 -->
+    <string name="achievement_classic__first_100" translatable="false">CgkI1KTxn6gZEAIQEw</string>
+    <!-- achievement Classic - First 500 -->
+    <string name="achievement_classic__first_500" translatable="false">CgkI1KTxn6gZEAIQFA</string>
+    <!-- achievement Classic - First 2000 -->
+    <string name="achievement_classic__first_2000" translatable="false">CgkI1KTxn6gZEAIQFQ</string>
+    <!-- achievement Classic Life - First 10! -->
+    <string name="achievement_classic_life__first_10" translatable="false">CgkI1KTxn6gZEAIQEQ</string>
+    <!-- achievement Classic Life - First 50! -->
+    <string name="achievement_classic_life__first_50" translatable="false">CgkI1KTxn6gZEAIQOA</string>
+    <!-- achievement Classic Life - First 100! -->
+    <string name="achievement_classic_life__first_100" translatable="false">CgkI1KTxn6gZEAIQOQ</string>
+    <!-- achievement Classic Life - Remove All Letters -->
+    <string name="achievement_classic_life__remove_all_letters" translatable="false">CgkI1KTxn6gZEAIQDw</string>
+    <!-- achievement Classic Life - Remove All Keys -->
+    <string name="achievement_classic_life__remove_all_keys" translatable="false">CgkI1KTxn6gZEAIQEA</string>
+    <!-- achievement Classic Time - First 10! -->
+    <string name="achievement_classic_time__first_10" translatable="false">CgkI1KTxn6gZEAIQFg</string>
+    <!-- achievement Classic Time - First 50! -->
+    <string name="achievement_classic_time__first_50" translatable="false">CgkI1KTxn6gZEAIQOg</string>
+    <!-- achievement Classic Time - First 100! -->
+    <string name="achievement_classic_time__first_100" translatable="false">CgkI1KTxn6gZEAIQOw</string>
+    <!-- achievement Classic Time - Remove All Letters -->
+    <string name="achievement_classic_time__remove_all_letters" translatable="false">CgkI1KTxn6gZEAIQEg</string>
+    <!-- achievement Classic Time - Remove All Keys -->
+    <string name="achievement_classic_time__remove_all_keys" translatable="false">CgkI1KTxn6gZEAIQFw</string>
+    <!-- achievement Classic Casual - First 10! -->
+    <string name="achievement_classic_casual__first_10" translatable="false">CgkI1KTxn6gZEAIQGA</string>
+    <!-- achievement Classic Casual - First 50! -->
+    <string name="achievement_classic_casual__first_50" translatable="false">CgkI1KTxn6gZEAIQPA</string>
+    <!-- achievement Classic Casual - First 100! -->
+    <string name="achievement_classic_casual__first_100" translatable="false">CgkI1KTxn6gZEAIQPQ</string>
+    <!-- achievement Classic Casual - Remove All Letters -->
+    <string name="achievement_classic_casual__remove_all_letters" translatable="false">CgkI1KTxn6gZEAIQGQ</string>
+    <!-- achievement Classic Casual - Remove All Keys -->
+    <string name="achievement_classic_casual__remove_all_keys" translatable="false">CgkI1KTxn6gZEAIQGg</string>
+    <!-- achievement Classic Challenges - First Bronze! -->
+    <string name="achievement_classic_challenges__first_bronze" translatable="false">CgkI1KTxn6gZEAIQGw</string>
+    <!-- achievement Classic Challenges - All Bronze! -->
+    <string name="achievement_classic_challenges__all_bronze" translatable="false">CgkI1KTxn6gZEAIQHA</string>
+    <!-- achievement Classic Challenges - First Silver! -->
+    <string name="achievement_classic_challenges__first_silver" translatable="false">CgkI1KTxn6gZEAIQHQ</string>
+    <!-- achievement Classic Challenges - All Silver! -->
+    <string name="achievement_classic_challenges__all_silver" translatable="false">CgkI1KTxn6gZEAIQHg</string>
+    <!-- achievement Classic Challenges - First Gold! -->
+    <string name="achievement_classic_challenges__first_gold" translatable="false">CgkI1KTxn6gZEAIQHw</string>
+    <!-- achievement Classic Challenges - All Gold! -->
+    <string name="achievement_classic_challenges__all_gold" translatable="false">CgkI1KTxn6gZEAIQIA</string>
+    <!-- achievement Classic Challenges - First Platinum! -->
+    <string name="achievement_classic_challenges__first_platinum" translatable="false">CgkI1KTxn6gZEAIQIQ</string>
+    <!-- achievement Classic Challenges - All Platinum! -->
+    <string name="achievement_classic_challenges__all_platinum" translatable="false">CgkI1KTxn6gZEAIQIg</string>
+    <!-- achievement Switch - First 100 -->
+    <string name="achievement_switch__first_100" translatable="false">CgkI1KTxn6gZEAIQIw</string>
+    <!-- achievement Switch - First 500 -->
+    <string name="achievement_switch__first_500" translatable="false">CgkI1KTxn6gZEAIQJA</string>
+    <!-- achievement Switch - First 2000 -->
+    <string name="achievement_switch__first_2000" translatable="false">CgkI1KTxn6gZEAIQJQ</string>
+    <!-- achievement Switch Life - First 10! -->
+    <string name="achievement_switch_life__first_10" translatable="false">CgkI1KTxn6gZEAIQJg</string>
+    <!-- achievement Switch Life - First 50! -->
+    <string name="achievement_switch_life__first_50" translatable="false">CgkI1KTxn6gZEAIQPg</string>
+    <!-- achievement Switch Life - First 100! -->
+    <string name="achievement_switch_life__first_100" translatable="false">CgkI1KTxn6gZEAIQPw</string>
+    <!-- achievement Switch Life - Remove All Letters -->
+    <string name="achievement_switch_life__remove_all_letters" translatable="false">CgkI1KTxn6gZEAIQJw</string>
+    <!-- achievement Switch Life - Remove All Keys -->
+    <string name="achievement_switch_life__remove_all_keys" translatable="false">CgkI1KTxn6gZEAIQKA</string>
+    <!-- achievement Switch Time - First 10! -->
+    <string name="achievement_switch_time__first_10" translatable="false">CgkI1KTxn6gZEAIQKQ</string>
+    <!-- achievement Switch Time - First 50! -->
+    <string name="achievement_switch_time__first_50" translatable="false">CgkI1KTxn6gZEAIQQA</string>
+    <!-- achievement Switch Time - First 100! -->
+    <string name="achievement_switch_time__first_100" translatable="false">CgkI1KTxn6gZEAIQQQ</string>
+    <!-- achievement Switch Time - Remove All Letters -->
+    <string name="achievement_switch_time__remove_all_letters" translatable="false">CgkI1KTxn6gZEAIQKg</string>
+    <!-- achievement Switch Time - Remove All Keys -->
+    <string name="achievement_switch_time__remove_all_keys" translatable="false">CgkI1KTxn6gZEAIQKw</string>
+    <!-- achievement Switch Casual - First 10! -->
+    <string name="achievement_switch_casual__first_10" translatable="false">CgkI1KTxn6gZEAIQLA</string>
+    <!-- achievement Switch Casual - First 50! -->
+    <string name="achievement_switch_casual__first_50" translatable="false">CgkI1KTxn6gZEAIQQg</string>
+    <!-- achievement Switch Casual - First 100! -->
+    <string name="achievement_switch_casual__first_100" translatable="false">CgkI1KTxn6gZEAIQQw</string>
+    <!-- achievement Switch Casual - Remove All Letters -->
+    <string name="achievement_switch_casual__remove_all_letters" translatable="false">CgkI1KTxn6gZEAIQLQ</string>
+    <!-- achievement Switch Casual - Remove All Keys -->
+    <string name="achievement_switch_casual__remove_all_keys" translatable="false">CgkI1KTxn6gZEAIQLg</string>
+    <!-- achievement Switch Challenges - First Bronze! -->
+    <string name="achievement_switch_challenges__first_bronze" translatable="false">CgkI1KTxn6gZEAIQLw</string>
+    <!-- achievement Switch Challenges - All Bronze! -->
+    <string name="achievement_switch_challenges__all_bronze" translatable="false">CgkI1KTxn6gZEAIQMA</string>
+    <!-- achievement Switch Challenges - First Silver! -->
+    <string name="achievement_switch_challenges__first_silver" translatable="false">CgkI1KTxn6gZEAIQMQ</string>
+    <!-- achievement Switch Challenges - All Silver! -->
+    <string name="achievement_switch_challenges__all_silver" translatable="false">CgkI1KTxn6gZEAIQMg</string>
+    <!-- achievement Switch Challenges - First Gold! -->
+    <string name="achievement_switch_challenges__first_gold" translatable="false">CgkI1KTxn6gZEAIQMw</string>
+    <!-- achievement Switch Challenges - All Gold! -->
+    <string name="achievement_switch_challenges__all_gold" translatable="false">CgkI1KTxn6gZEAIQNA</string>
+    <!-- achievement Switch Challenges - First Platinum! -->
+    <string name="achievement_switch_challenges__first_platinum" translatable="false">CgkI1KTxn6gZEAIQNQ</string>
+    <!-- achievement Switch Challenges - All Platinum! -->
+    <string name="achievement_switch_challenges__all_platinum" translatable="false">CgkI1KTxn6gZEAIQNg</string>
+    <!-- leaderboard Classic Life -->
+    <string name="leaderboard_classic_life" translatable="false">CgkI1KTxn6gZEAIQCA</string>
+    <!-- leaderboard Classic Time -->
+    <string name="leaderboard_classic_time" translatable="false">CgkI1KTxn6gZEAIQCQ</string>
+    <!-- leaderboard Classic Casual -->
+    <string name="leaderboard_classic_casual" translatable="false">CgkI1KTxn6gZEAIQRg</string>
+    <!-- leaderboard Switch Life -->
+    <string name="leaderboard_switch_life" translatable="false">CgkI1KTxn6gZEAIQCg</string>
+    <!-- leaderboard Switch Time -->
+    <string name="leaderboard_switch_time" translatable="false">CgkI1KTxn6gZEAIQCw</string>
+    <!-- leaderboard Switch Casual -->
+    <string name="leaderboard_switch_casual" translatable="false">CgkI1KTxn6gZEAIQRw</string>
+</resources>
